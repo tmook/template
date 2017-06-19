@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Tyson Seto-Mook",
+    "label": "Graduate Student and Research Assistant",
+    "picture": "https://tmook.github.io/images/tyson.jpg",
+    "email": "tmook@hawaii.edu",
+    "phone": "",
+    "website": "https://tmook.github.io",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,37 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tmook",
+        "url": "http://github.com/tmook"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "setomook",
+        "url": "http://linkedin.com/in/setomook"
       }
     ]
   },
   "interests": [
+   {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "TI MSP430",
+        "rapsberrypi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -65,8 +61,11 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "MPI",
+        "OpenMP",
+        "Pthreads",
+        "ReactJS"
       ]
     },
     {
@@ -74,10 +73,12 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Unix",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "TI LaunchPad",
+        "SolidWorks"
       ]
     }
   ],
@@ -85,85 +86,142 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "M.S.",
+      "startDate": "2015-09-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2004-09-01",
+      "endDate": "2009-05-01",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "work experience": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Information & Computer Science Department, University of Hawaii at Manoa",
+      "position": "",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Research Assistant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "NETSAGE"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "company": "Information & Computer Science Department, University of Hawaii at Manoa",
+      "position": "",
+      "website": "http://www.ics.hawaii.edu/",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "endDate": "2017-05-01",
+      "summary": "Teaching Assistant",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Taught 75 minute lab sections twice a week to undergraduate students taking",
+        "Created and graded quizzes, homework and lab assignments",
+        "Taught students one on one and in small groups during office hours",
+        "Provided students with guidance and motivation to seek resources needed to further their education"
       ]
     },
     {
-      "organization": "",
+      "company": "LiveAction Inc.",
+      "position": "",
+      "website": "http://www.liveaction.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Software Engineer Intern",
+      "highlights": [
+        "Created a framework to automate tests for the RESTful APIs using Python and the Requests library",
+        "Identified a critical deadlock in Java backend report generation feature and verified the fix",
+        "Implemented a solution to consolidate multiple related network IDs to one unique network ID in Java",
+        "Fixed UI related bugs in AngularJS and server side related bugs in Java",
+        "Performed regression tests on various features of the LiveNX product"
+      ]
+    },
+    {
+      "company": "Naval Surface Warfare Center, Port Hueneme Division",
+      "position": "",
+      "website": "http://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Port-Hueneme/",
+      "startDate": "2010-04-01",
+      "endDate": "2015-04-01",
+      "summary": "Computer Engineer",
+      "highlights": [
+        "Independently assessed and maintained combat computer systems for United States Navy ships",
+        "Trained United States enlisted Navy service personnel on system operations and equipment maintenance",
+        "Developed Task Planning Sheets (TPS) and Work Breakdown Structures (WBS) for branch budget",
+        "Provided technical support and stood watch for Navy Surface Ship Combat Systems 24/7 help desk",
+        "As Project Manager, developed a distance support system for the United States Navy surface ships"
+      ]
+    },
+    {
+      "company": "Institute for Astronomy, University of Hawaii",
+      "position": "",
+      "website": "https://akamaihawaii.org/internships/",
+      "startDate": "2010-04-01",
+      "endDate": "2015-04-01",
+      "summary": "Akamai Workforce Initiative - Intern",
+      "highlights": [
+        "Developed an image processing program, in C++, to calculate centroid of the sun and return the coordinates",
+        "Assessed VariSpec Liquid Crystal Tunable Filter and reported findings for use in future projects",
+      ]
+    }
+  ],
+  "relevant experience": [
+    {
+      "organization": "Cube Satellite Project, University of Hawaii at Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "",
+      "startDate": "2008-01-01",
+      "endDate": "2009-05-01",
+      "summary": "Software Engineer",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Designed a temperature sensor system to record the temperature ranges a CubeSat experiences while in space",
+        "Developed an algorithm to find the maximum power point of the satellites solar cells",
+        "Used Pumpkin Salvo Real Time Operating System to help redesign satellite's main system routine",
+        "Collaborated with team in development of Cube Satellite prototype"
+      ]
+    },
+    {
+      "organization": "MicroMouse Project, University of Hawaii at Manoa",
+      "website": "",
+      "position": "",
+      "startDate": "2005-01-01",
+      "endDate": "2009-05-01",
+      "summary": "Team Lead",
+      "highlights": [
+        "1st place (2009) in IEEE regional collegiate competition for both fastest race time and robotic design",
+        "3rd place (2007) in IEEE regional collegiate competition for fastest race time",
+        "Designed an innovative hardware layout for MicroMouse robot",
+        "Designed software and firmware for the Micromouse robot to autonomously traverse and solve a maze",
+        "Provided direction and focus in achieving team goals"
       ]
     }
   ],
-  "awards": [
+  "certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "SECRET clearance based on Access National Agency Check and Inquiries (ANACI)",
+      "date": "2010-09-01",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
+      "title": "CompTIA Security+",
+      "date": "2015-02-01",
+      "awarder": "",
+      "summary": ""
+    },
     {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "Cisco Certified Network Associate (CCNA)",
+      "date": "2015-03-01",
+      "awarder": "",
+      "summary": ""
     }
   ]
 }
