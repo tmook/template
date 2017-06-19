@@ -162,7 +162,14 @@
         "Trained United States enlisted Navy service personnel on system operations and equipment maintenance",
         "Developed Task Planning Sheets (TPS) and Work Breakdown Structures (WBS) for branch budget",
         "Provided technical support and stood watch for Navy Surface Ship Combat Systems 24/7 help desk",
-        "As Project Manager, developed a distance support system for the United States Navy surface ships"
+        ["As Project Manager, developed a distance support system for the United States Navy surface ships",
+          [
+            "Wrote white papers and proposals to obtain funding",
+            "Awarded funding to design, prototype and test the initiative",
+            "Coordinated tasks and meetings between internal, external and United States military organizations",
+            "Presented project to United States Navy Admirals, Captains and senior management"
+          ]
+        ]
       ]
     },
     {
@@ -173,7 +180,12 @@
       "endDate": "2015-04-01",
       "summary": "Akamai Workforce Initiative",
       "highlights": [
-        "Developed an image processing program, in C++, to calculate centroid of the sun and return the coordinates",
+        [
+          "Developed an image processing program, in C++, to calculate centroid of the sun and return the coordinates",
+          [
+            "Program was used to maintain steady tracking of the sun with coelostat"
+          ]
+        ],
         "Assessed VariSpec Liquid Crystal Tunable Filter and reported findings for use in future projects",
       ]
     }
@@ -187,9 +199,25 @@
       "endDate": "2009-05-01",
       "summary": "",
       "highlights": [
-        "Designed a temperature sensor system to record the temperature ranges a CubeSat experiences while in space",
-        "Developed an algorithm to find the maximum power point of the satellites solar cells",
-        "Used Pumpkin Salvo Real Time Operating System to help redesign satellite's main system routine",
+        [
+          "Designed a temperature sensor system to record the temperature ranges a CubeSat experiences while in space",
+          [
+            "Used I2C protocol to poll sensor data from Analog to Digital Converter",
+            "Built a temperature sensor circuit using a thermistor, voltage divider, amplifier and ADC."
+          ]
+        ],
+        [
+          "Developed an algorithm to find the maximum power point of the satellites solar cells",
+          [
+            "Prevented over or under power draw from solar cells by adjusting DC/DC voltage"
+          ]
+        ],
+        [
+          "Used Pumpkin Salvo Real Time Operating System to help redesign satellite's main system routine",
+          [
+            "Increased microcontroller efficiency by decreasing number of blocking delays in software"
+          ]
+        ],
         "Collaborated with team in development of Cube Satellite prototype"
       ]
     },
@@ -203,8 +231,20 @@
       "highlights": [
         "1st place (2009) in IEEE regional collegiate competition for both fastest race time and robotic design",
         "3rd place (2007) in IEEE regional collegiate competition for fastest race time",
-        "Designed an innovative hardware layout for MicroMouse robot",
-        "Designed software and firmware for the Micromouse robot to autonomously traverse and solve a maze",
+        [
+          "Designed an innovative hardware layout for MicroMouse robot",
+          [
+            "Used the mother board PCB to support motors to decrease robot footprint",
+            "Designed, built and assembled light sensor circuit, motor driver circuit, and microprocessor circuit"
+          ]
+        ],
+        [
+          "Designed software and firmware for the Micromouse robot to autonomously traverse and solve a maze",
+          [
+            "Implemented a flood fill algorithm to prioritize path decisions made by the MicroMouse robot",
+            "Programmed a PID control loop algorithm to keep the MicroMouse centered while traversing a maze"
+          ]
+        ],
         "Provided direction and focus in achieving team goals"
       ]
     }
