@@ -124,7 +124,12 @@
       "endDate": "2017-05-01",
       "summary": "",
       "highlights": [
-        "Taught 75 minute lab sections twice a week to undergraduate students taking",
+        ["Taught 75 minute lab sections twice a week to undergraduate students taking",
+          [
+            "ICS 111 -  Introduction to Computer Science I (introduction to programming in Java)",
+            "ICS 211 -  Introduction to Computer Science II (introduction to programming in Java)"
+          ]
+        ],
         "Created and graded quizzes, homework and lab assignments",
         "Taught students one on one and in small groups during office hours",
         "Provided students with guidance and motivation to seek resources needed to further their education"
