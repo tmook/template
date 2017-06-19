@@ -107,20 +107,22 @@
   "work": [
     {
       "company": "Information & Computer Science Department, University of Hawaii at Manoa",
+      "position": "Research Assistant",
       "website": "http://lava.manoa.hawaii.edu/",
       "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Research Assistant",
+      "summary": "",
       "highlights": [
         "NETSAGE"
       ]
     },
     {
       "company": "Information & Computer Science Department, University of Hawaii at Manoa",
+      "position": "Teaching Assistant",
       "website": "http://www.ics.hawaii.edu/",
       "startDate": "2016-01-01",
       "endDate": "2017-05-01",
-      "summary": "Teaching Assistant",
+      "summary": "",
       "highlights": [
         "Taught 75 minute lab sections twice a week to undergraduate students taking",
         "Created and graded quizzes, homework and lab assignments",
@@ -130,10 +132,11 @@
     },
     {
       "company": "LiveAction Inc.",
+      "position": "Software Engineer Intern",
       "website": "http://www.liveaction.com/",
       "startDate": "2016-05-01",
       "endDate": "2016-08-01",
-      "summary": "Software Engineer Intern",
+      "summary": "",
       "highlights": [
         "Created a framework to automate tests for the RESTful APIs using Python and the Requests library",
         "Identified a critical deadlock in Java backend report generation feature and verified the fix",
@@ -144,10 +147,11 @@
     },
     {
       "company": "Naval Surface Warfare Center, Port Hueneme Division",
+      "position": "Computer Engineer",
       "website": "http://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Port-Hueneme/",
       "startDate": "2010-04-01",
       "endDate": "2015-04-01",
-      "summary": "Computer Engineer",
+      "summary": "",
       "highlights": [
         "Independently assessed and maintained combat computer systems for United States Navy ships",
         "Trained United States enlisted Navy service personnel on system operations and equipment maintenance",
@@ -158,10 +162,11 @@
     },
     {
       "company": "Institute for Astronomy, University of Hawaii",
+      "position": "Intern",
       "website": "https://akamaihawaii.org/internships/",
       "startDate": "2010-04-01",
       "endDate": "2015-04-01",
-      "summary": "Akamai Workforce Initiative - Intern",
+      "summary": "Akamai Workforce Initiative",
       "highlights": [
         "Developed an image processing program, in C++, to calculate centroid of the sun and return the coordinates",
         "Assessed VariSpec Liquid Crystal Tunable Filter and reported findings for use in future projects",
@@ -171,9 +176,11 @@
   "volunteer": [
     {
       "organization": "Cube Satellite Project, University of Hawaii at Manoa",
+      "website": "",
+      "position": "Software Engineer",
       "startDate": "2008-01-01",
       "endDate": "2009-05-01",
-      "summary": "Software Engineer",
+      "summary": "",
       "highlights": [
         "Designed a temperature sensor system to record the temperature ranges a CubeSat experiences while in space",
         "Developed an algorithm to find the maximum power point of the satellites solar cells",
@@ -183,9 +190,11 @@
     },
     {
       "organization": "MicroMouse Project, University of Hawaii at Manoa",
+      "website": "",
+      "position": "Team Lead",
       "startDate": "2005-01-01",
       "endDate": "2009-05-01",
-      "summary": "Team Lead",
+      "summary": "",
       "highlights": [
         "1st place (2009) in IEEE regional collegiate competition for both fastest race time and robotic design",
         "3rd place (2007) in IEEE regional collegiate competition for fastest race time",
@@ -195,18 +204,24 @@
       ]
     }
   ],
-  "certifications": [
+  "awards": [
     {
       "title": "SECRET clearance based on Access National Agency Check and Inquiries (ANACI)",
-      "date": "2010-09-01"
+      "date": "2010-09-01",
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "CompTIA Security+",
-      "date": "2015-02-01"
+      "date": "2015-02-01",
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "Cisco Certified Network Associate (CCNA)",
-      "date": "2015-03-01"
+      "date": "2015-03-01",
+      "awarder": "",
+      "summary": ""
     }
   ]
 }
