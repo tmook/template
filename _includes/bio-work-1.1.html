@@ -32,6 +32,13 @@
         </ul>
         {% endif %}
       </div>
+      {% if entry.location %}
+      <div class="four wide right aligned column no-bottom">
+        <p class="ui no-bottom">
+          <b> {{ entry.location }} </b>
+        </p>
+      </div>
+      {% endif %}
       <div class="four wide right aligned column no-bottom">
         <p class="ui no-bottom"><b>
           {% if entry.startDate %}
