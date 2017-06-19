@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/holoputt-1.png
+image: images/holoputt-square.png
 title: HoloPutt
 permalink: projects/HoloPutt
 date: 2016
