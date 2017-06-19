@@ -1,3 +1,6 @@
+<!-- start of comment
+
+
 ---
 layout: project
 type: project
@@ -27,3 +30,4 @@ You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~
 
 
 
+end of comment -->
