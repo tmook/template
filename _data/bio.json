@@ -107,7 +107,6 @@
   "work": [
     {
       "company": "Information & Computer Science Department, University of Hawaii at Manoa",
-      "position": "",
       "website": "http://lava.manoa.hawaii.edu/",
       "startDate": "2017-05-01",
       "endDate": "Present",
@@ -118,7 +117,6 @@
     },
     {
       "company": "Information & Computer Science Department, University of Hawaii at Manoa",
-      "position": "",
       "website": "http://www.ics.hawaii.edu/",
       "startDate": "2016-01-01",
       "endDate": "2017-05-01",
@@ -132,7 +130,6 @@
     },
     {
       "company": "LiveAction Inc.",
-      "position": "",
       "website": "http://www.liveaction.com/",
       "startDate": "2016-05-01",
       "endDate": "2016-08-01",
@@ -147,7 +144,6 @@
     },
     {
       "company": "Naval Surface Warfare Center, Port Hueneme Division",
-      "position": "",
       "website": "http://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Port-Hueneme/",
       "startDate": "2010-04-01",
       "endDate": "2015-04-01",
@@ -162,7 +158,6 @@
     },
     {
       "company": "Institute for Astronomy, University of Hawaii",
-      "position": "",
       "website": "https://akamaihawaii.org/internships/",
       "startDate": "2010-04-01",
       "endDate": "2015-04-01",
@@ -173,11 +168,9 @@
       ]
     }
   ],
-  "relevant experience": [
+  "volunteer": [
     {
       "organization": "Cube Satellite Project, University of Hawaii at Manoa",
-      "website": "",
-      "position": "",
       "startDate": "2008-01-01",
       "endDate": "2009-05-01",
       "summary": "Software Engineer",
@@ -190,8 +183,6 @@
     },
     {
       "organization": "MicroMouse Project, University of Hawaii at Manoa",
-      "website": "",
-      "position": "",
       "startDate": "2005-01-01",
       "endDate": "2009-05-01",
       "summary": "Team Lead",
@@ -207,21 +198,15 @@
   "certifications": [
     {
       "title": "SECRET clearance based on Access National Agency Check and Inquiries (ANACI)",
-      "date": "2010-09-01",
-      "awarder": "",
-      "summary": ""
+      "date": "2010-09-01"
     },
     {
       "title": "CompTIA Security+",
-      "date": "2015-02-01",
-      "awarder": "",
-      "summary": ""
+      "date": "2015-02-01"
     },
     {
       "title": "Cisco Certified Network Associate (CCNA)",
-      "date": "2015-03-01",
-      "awarder": "",
-      "summary": ""
+      "date": "2015-03-01"
     }
   ]
 }
