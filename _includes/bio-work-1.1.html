@@ -26,11 +26,7 @@
               {% endfor %}
               </ul>
             {% else %}
-              <li>{{ highlight[0] }}</li>
-              <ul style="margin: 0px;">
-              {% for subhighlight in highlight[1] %}
-                <li>{{ subhighlight }}</li>
-              {% endfor %}
+              <li>{{ highlight }}</li>
             {% endif %}
           {% endfor %}
         </ul>
