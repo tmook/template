@@ -84,7 +84,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "M.S.",
       "startDate": "2015-09-01",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Electrical Engineering",
       "studyType": "B.S.",
       "startDate": "2004-09-01",
@@ -104,7 +104,7 @@
       ]
     }
   ],
-  "work experience": [
+  "work": [
     {
       "company": "Information & Computer Science Department, University of Hawaii at Manoa",
       "position": "",
