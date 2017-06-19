@@ -84,9 +84,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "M.S.",
+      "location": "Honolulu, HI",
       "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
@@ -94,9 +95,10 @@
       ]
     },
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Electrical Engineering",
       "studyType": "B.S.",
+      "location": "Honolulu, HI",
       "startDate": "2004-09-01",
       "endDate": "2009-05-01",
       "gpa": "",
@@ -182,6 +184,7 @@
       "website": "https://akamaihawaii.org/internships/",
       "startDate": "2010-04-01",
       "endDate": "2015-04-01",
+      "location": "Pukalani, HI",
       "summary": "Akamai Workforce Initiative",
       "highlights": [
         [
@@ -199,6 +202,7 @@
       "organization": "Cube Satellite Project, University of Hawaii at Manoa",
       "website": "",
       "position": "Software Engineer",
+      "location": "Honolulu, HI",
       "startDate": "2008-01-01",
       "endDate": "2009-05-01",
       "summary": "",
@@ -229,6 +233,7 @@
       "organization": "MicroMouse Project, University of Hawaii at Manoa",
       "website": "",
       "position": "Team Lead",
+      "location": "Honolulu, HI",
       "startDate": "2005-01-01",
       "endDate": "2009-05-01",
       "summary": "",
