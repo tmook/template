@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/holoputt-square.png
 title: HoloPutt
-permalink: projects/HoloPutt
+permalink: projects/holoputt
 date: 2016
 labels:
   - Unity 3D
